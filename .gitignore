@@ -1,0 +1,4 @@
+# Dependency directories
+**/node_modules/
+# external libraries
+**/src/assets/lib/
